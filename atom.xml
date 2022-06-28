@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ruozhuo2021.github.io/</id>
+    <title>王若拙</title>
+    <updated>2022-06-28T14:03:27.125Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ruozhuo2021.github.io/"/>
+    <link rel="self" href="https://ruozhuo2021.github.io/atom.xml"/>
+    <subtitle>赤条条来去无牵挂</subtitle>
+    <logo>https://ruozhuo2021.github.io/images/avatar.png</logo>
+    <icon>https://ruozhuo2021.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 王若拙</rights>
+    <entry>
+        <title type="html"><![CDATA[雷震子]]></title>
+        <id>https://ruozhuo2021.github.io/post/lei-zhen-zi/</id>
+        <link href="https://ruozhuo2021.github.io/post/lei-zhen-zi/">
+        </link>
+        <updated>2022-06-25T07:36:32.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ruozhuo2021.github.io//post-images/1656142598462.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴黎8分钟]]></title>
+        <id>https://ruozhuo2021.github.io/post/ba-li-8-fen-zhong/</id>
+        <link href="https://ruozhuo2021.github.io/post/ba-li-8-fen-zhong/">
+        </link>
+        <updated>2022-06-25T07:36:19.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ruozhuo2021.github.io//post-images/1656142584174.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞行员]]></title>
+        <id>https://ruozhuo2021.github.io/post/fei-xing-yuan/</id>
+        <link href="https://ruozhuo2021.github.io/post/fei-xing-yuan/">
+        </link>
+        <updated>2022-06-25T07:36:07.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ruozhuo2021.github.io//post-images/1656142571679.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给阿党的立绘]]></title>
+        <id>https://ruozhuo2021.github.io/post/gei-a-dang-de-li-hui/</id>
+        <link href="https://ruozhuo2021.github.io/post/gei-a-dang-de-li-hui/">
+        </link>
+        <updated>2022-06-25T07:35:52.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ruozhuo2021.github.io//post-images/1656142558201.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022/1/日记]]></title>
+        <id>https://ruozhuo2021.github.io/post/20221ri-ji/</id>
+        <link href="https://ruozhuo2021.github.io/post/20221ri-ji/">
+        </link>
+        <updated>2022-06-25T07:34:01.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ruozhuo2021.github.io//post-images/1656142515514.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给朋友画的头像]]></title>
+        <id>https://ruozhuo2021.github.io/post/gei-peng-you-hua-de-tou-xiang/</id>
+        <link href="https://ruozhuo2021.github.io/post/gei-peng-you-hua-de-tou-xiang/">
+        </link>
+        <updated>2022-06-25T07:33:05.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ruozhuo2021.github.io//post-images/1656142427692.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
